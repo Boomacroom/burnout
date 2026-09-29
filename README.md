@@ -2,6 +2,10 @@
 
 True-fullscreen LCD image-retention exerciser for Windows. It uses a borderless, topmost Win32 window sized to the monitor's exact physical pixels. It covers the taskbar and every edge, blocks the screensaver and display sleep, and hides the cursor. It has no dependencies and is pure Go.
 
+## Download
+
+Get the latest `burnout-gui.exe` from [Releases](../../releases/latest) and double-click it. There's nothing to install. Windows SmartScreen may warn that the app is unrecognized because it isn't code-signed. Choose **More info → Run anyway**.
+
 ## Build
 
 ```
