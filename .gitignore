@@ -1,0 +1,2 @@
+# Build output (rebuild with .\build.ps1)
+*.exe
